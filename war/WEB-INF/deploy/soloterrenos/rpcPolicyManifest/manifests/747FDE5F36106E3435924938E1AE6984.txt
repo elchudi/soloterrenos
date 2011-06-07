@@ -1,0 +1,2 @@
+serviceClass: com.soloterrenos.client.GreetingService
+path: 8CF3D265E79A5A99D609DF17D6E3670C.gwt.rpc

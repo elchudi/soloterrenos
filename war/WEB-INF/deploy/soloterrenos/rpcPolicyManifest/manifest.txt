@@ -1,0 +1,3 @@
+# Module soloterrenos
+# RPC service class, partial path of RPC policy file
+com.soloterrenos.client.GreetingService, 8CF3D265E79A5A99D609DF17D6E3670C.gwt.rpc
